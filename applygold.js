@@ -69,5 +69,5 @@ $(document).ready(function () {
 
   
   function applynow() {
-    window.open('applyform.html');
+    window.open('applyformgold.html');
   }
